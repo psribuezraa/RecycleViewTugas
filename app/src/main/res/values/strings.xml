@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="disaster_name">Disaster Name</string>
+    <string name="disaster_type">Disaster Type</string>
+</resources>
